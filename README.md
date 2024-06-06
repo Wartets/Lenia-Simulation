@@ -22,11 +22,15 @@ Lenia génère une variété de motifs et de structures, beaucoup plus complexes
 
 Lenia sert de plateforme pour l'étude de la vie artificielle, où des règles simples et des conditions initiales variées donnent naissance à des comportements complexes ressemblant à ceux de la vie réelle. Il offre des perspectives sur la façon dont la vie pourrait évoluer dans des environnements numériques, en faisant un outil puissant pour explorer la complexité émergente.
 
+## Guide d'utilisation
+
+Pour comprendre le fonctionnement de la simulation plus en détail et puis la démarrer, consultez le notebook inclus dans ce dépôt : [LeniaSimulation Notebook](https://github.com/Wartets/Lenia-Simulation/blob/main/LeniaSimulation2.5.ipynb)
+
 ## Ressources Supplémentaires
 
 Pour plus d'informations et de ressources sur Lenia, visitez : [Lenia Resources](https://chakazul.github.io/lenia.html)
 
 ---
 
-Auteur : Colin Bossu \
-Date : Mai-Juin 2024
+> Auteur : Colin Bossu \
+> Date : Mai-Juin 2024
