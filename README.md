@@ -26,6 +26,8 @@ Lenia sert de plateforme pour l'étude de la vie artificielle, où des règles s
 
 Pour comprendre le fonctionnement de la simulation plus en détail et puis la démarrer, consultez le notebook inclus dans ce dépôt : [LeniaSimulation Notebook](https://github.com/Wartets/Lenia-Simulation/blob/main/LeniaSimulation2.5.ipynb)
 
+Voici un exemple d'utilisation du script : [Vidéo YouTube](https://youtu.be/ucoEMNx3Y-I)
+
 ## Ressources Supplémentaires
 
 Pour plus d'informations et de ressources sur Lenia, visitez : [Lenia Resources](https://chakazul.github.io/lenia.html)
